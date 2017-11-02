@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 2, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kyla Murphy)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,6 +17,6 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use an ElementById Tab correctly.)
+2. (I also learned the interworkings of an electronic photo gallery.)
+3. (I learned that there is multiple variables that go into creating a photo album online.)
