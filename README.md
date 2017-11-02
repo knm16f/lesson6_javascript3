@@ -10,11 +10,10 @@ Web Application Development
 (Kyla Murphy)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson was to learn about HTML DOM and how Javascript is used in accessing changes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://knm16f.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to use an ElementById Tab correctly.)
